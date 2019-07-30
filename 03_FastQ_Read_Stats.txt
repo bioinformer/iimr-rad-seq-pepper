@@ -1,0 +1,16 @@
+(bioinfo) sharmaiimr@sharmaiimr-HP-Pavilion-x360-Convertible:~/Documents/00_rad_seq/01_black_pepper/rawdata$ seqkit stat ./KS/*.fastq ./OPP24/*.fastq ./P1/*.fastq ./SHAK/*.fastq ./SRE/*.fastq
+file                    format  type   num_seqs      sum_len  min_len  avg_len  max_len
+./KS/KS_R1.fastq        FASTQ   DNA   1,776,541  266,481,150      150      150      150
+./KS/KS_R2.fastq        FASTQ   DNA   1,776,541  266,481,150      150      150      150
+
+./OPP24/OPP24_R1.fastq  FASTQ   DNA   2,218,687  332,803,050      150      150      150
+./OPP24/OPP24_R2.fastq  FASTQ   DNA   2,218,687  332,803,050      150      150      150
+
+./P1/P1_R1.fastq        FASTQ   DNA   2,219,162  332,874,300      150      150      150
+./P1/P1_R2.fastq        FASTQ   DNA   2,219,162  332,874,300      150      150      150
+
+./SHAK/SHAK_R1.fastq    FASTQ   DNA   2,238,734  335,810,100      150      150      150
+./SHAK/SHAK_R2.fastq    FASTQ   DNA   2,238,734  335,810,100      150      150      150
+
+./SRE/SRE_R1.fastq      FASTQ   DNA   2,293,560  344,034,000      150      150      150
+./SRE/SRE_R2.fastq      FASTQ   DNA   2,293,560  344,034,000      150      150      150
