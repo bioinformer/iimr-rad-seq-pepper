@@ -1,0 +1,1131 @@
+(bioinfo) sharmaiimr@sharmaiimr-HP-Pavilion-x360-Convertible:~/Documents/00_rad_seq/01_black_pepper/rawdata$ esearch -db pubmed -query "((RAD[Title] AND SNP[Title])" | efetch -format abstract
+
+1. Breed Sci. 2019 Mar;69(1):19-29. doi: 10.1270/jsbbs.17149. Epub 2019 Feb 15.
+
+Scanning RNA-Seq and RAD-Seq approach to develop SNP markers closely linked to
+MALE STERILITY 1 (MS1) in Cryptomeria japonica D. Don.
+
+Ueno S(1), Uchiyama K(1), Moriguchi Y(2), Ujino-Ihara T(1), Matsumoto A(1), Wei
+FJ(1), Saito M(3), Higuchi Y(4), Futamura N(1), Kanamori H(5), Katayose Y(5),
+Tsumura Y(1)(6).
+
+Author information: 
+(1)Department of Forest Molecular Genetics and Biotechnology, Forestry and Forest
+Products Research Institute, Forest Research and Management Organization, 1
+Matsunosato, Tsukuba, Ibaraki 305-8687, Japan.
+(2)Graduate School of Science and Technology, Niigata University, 8050, Ikarashi 
+2-no-cho, Nishi-ku, Niigata 950-2181, Japan.
+(3)Toyama Prefectural Agricultural Forestry and Fisheries Research Center,
+Forestry Research Institute, Yoshimine 3, Tateyama-cho, Nakashinkawagun, Toyama
+930-1362, Japan.
+(4)Niigata Prefectural Forest Research Institute, 2249-5 Unotoro, Murakami,
+Niigata 958-0264, Japan (retired).
+(5)National Institute of Agrobiological Sciences, Owashi, Tsukuba, Ibaraki
+305-8634, Japan.
+(6)Faculty of Life and Environmental Sciences, University of Tsukuba, 1-1-1
+Tennodai, Tsukuba, Ibaraki 305-8572, Japan.
+
+Cryptomeria japonica is a major forestry tree species in Japan. Male sterility of
+the species is caused by a recessive gene, which shows dysfunction of pollen
+development and results in no dispersed pollen. Because the pollen of C. japonica
+induces pollinosis, breeding of pollen-free C. japonica is desired. In this
+study, single nucleotide polymorphism (SNP) markers located at 1.78 and 0.58 cM
+to a male sterility locus (MS1) were identified from an analysis of RNA-Seq and
+RAD-Seq, respectively. SNPs closely linked to MS1 were first scanned by a method 
+similar to MutMap, where a type of index was calculated to measure the strength
+of the linkage between a marker sequence and MS1. Linkage analysis of selected
+SNP markers confirmed a higher efficiency of the current method to construct a
+partial map around MS1. Allele-specific PCR primer pair for the most closely
+linked SNP with MS1 was developed as a codominant marker, and visualization of
+the PCR products on an agarose gel enabled rapid screening of male sterile C.
+japonica. The allele-specific primers developed in this study would be useful for
+establishing the selection of male sterile C. japonica.
+
+DOI: 10.1270/jsbbs.17149 
+PMCID: PMC6507728
+PMID: 31086480 
+
+
+2. Mol Genet Genomics. 2019 Apr;294(2):479-492. doi: 10.1007/s00438-018-1526-2. Epub
+2019 Jan 2.
+
+Resolving population structure and genetic differentiation associated with
+RAD-SNP loci under selection in tossa jute (Corchorus olitorius L.).
+
+Sarkar D(1), Kundu A(2)(3), Das D(2), Chakraborty A(2), Mandal NA(2), Satya P(2),
+Karmakar PG(2), Kar CS(2), Mitra J(2), Singh NK(4).
+
+Author information: 
+(1)Biotechnology Unit, Division of Crop Improvement, ICAR-Central Research
+Institute for Jute and Allied Fibres (CRIJAF), Nilganj, Barrackpore, Kolkata,
+West Bengal, 700 120, India. debabrata_s@yahoo.com.
+(2)Biotechnology Unit, Division of Crop Improvement, ICAR-Central Research
+Institute for Jute and Allied Fibres (CRIJAF), Nilganj, Barrackpore, Kolkata,
+West Bengal, 700 120, India.
+(3)Department of Genetics and Plant Breeding, North Bengal Agricultural
+University, Pundibari, Cooch Behar, West Bengal, 736 165, India.
+(4)Rice Genome Lab, ICAR-National Research Centre on Plant Biotechnology (NRCPB),
+Pusa, New Delhi, 110 012, India.
+
+The genetic basis of selection for geographic adaptation and how it has
+contributed to population structure are unknown in tossa jute (Corchorus
+olitorius), an important bast fibre crop. We performed restriction
+site-associated DNA (RAD) sequencing-based (1115 RAD-SNPs) population genomic
+analyses to investigate genetic differentiation and population structure within a
+collection of 221 fibre-type lines from across nine geographic regions of the
+world. Indian populations, with relatively higher overall diversity, were
+significantly differentiated (based on FST and PCA) from the African and the
+other Asian populations. There is strong evidence that African C. olitorius was
+first introduced in peninsular India that could perhaps be its secondary centre
+of origin. However, multiple later introductions have occurred in central,
+eastern and northern India. Based on four assignment tests with different
+statistical bases, we infer that two ancestral subpopulations (African and
+Indian) structure the C. olitorius populations, but not in accordance with their 
+geographic origins and patterns of diversity. Our results advocate recent
+migration of C. olitorius through introduction and germplasm exchange across
+geographical boundaries. We argue that high intraspecific genetic admixture could
+be associated with increased genetic variance within Indian populations.
+Employing both subpopulation (FST/GST-outlier) and individual-based (PCAdapt)
+tests, we detected putative RAD-SNP loci under selection and demonstrated that
+bast fibre production was an artificial, while abiotic and biotic stresses were
+natural selection pressures in C. olitorius adaptation. By reinferring the
+population structure without outlier loci, we propose ad interim that C.
+olitorius was possibly domesticated as a fibre crop in the Indian subcontinent.
+
+DOI: 10.1007/s00438-018-1526-2 
+PMID: 30604071  [Indexed for MEDLINE]
+
+
+3. BMC Genomics. 2018 Dec 22;19(1):955. doi: 10.1186/s12864-018-5291-8.
+
+High-density SNP linkage map construction and QTL mapping for flavonoid-related
+traits in a tea plant (Camellia sinensis) using 2b-RAD sequencing.
+
+Xu LY(1)(2), Wang LY(3), Wei K(1), Tan LQ(4), Su JJ(1), Cheng H(5).
+
+Author information: 
+(1)National Centre for Tea Improvement, Tea Research Institute, Chinese Academy
+of Agricultural Sciences, Hangzhou, 310008, China.
+(2)College of Horticulture and Forestry Science, Huazhong Agricultural
+University, Wuhan, 430070, China.
+(3)National Centre for Tea Improvement, Tea Research Institute, Chinese Academy
+of Agricultural Sciences, Hangzhou, 310008, China. wangly@tricaas.com.
+(4)College of Horticulture, Sichuan Agricultural University, Chengdu, 611130,
+China.
+(5)National Centre for Tea Improvement, Tea Research Institute, Chinese Academy
+of Agricultural Sciences, Hangzhou, 310008, China. chenghao@tricaas.com.
+
+BACKGROUND: Flavonoids are important components that confer upon tea plants a
+unique flavour and health functions. However, the traditional breeding method for
+selecting a cultivar with a high or unique flavonoid content is time consuming
+and labour intensive. High-density genetic map construction associated with
+quantitative trait locus (QTL) mapping provides an effective way to facilitate
+trait improvement in plant breeding. In this study, an F1 population (LJ43×BHZ)
+was genotyped using 2b-restriction site-associated DNA (2b-RAD) sequencing to
+obtain massive single nucleotide polymorphism (SNP) markers to construct a
+high-density genetic map for a tea plant. Furthermore, QTLs related to flavonoids
+were identified using our new genetic map.
+RESULTS: A total of 13,446 polymorphic SNP markers were developed using 2b-RAD
+sequencing, and 4,463 of these markers were available for constructing the
+genetic linkage map. A 1,678.52-cM high-density map at an average interval of
+0.40 cM with 4,217 markers, including 427 frameset simple sequence repeats (SSRs)
+and 3,800 novel SNPs, mapped into 15 linkage groups was successfully constructed.
+After QTL analysis, a total of 27 QTLs related to flavonoids or caffeine content 
+(CAF) were mapped to 8 different linkage groups, LG01, LG03, LG06, LG08, LG10,
+LG11, LG12, and LG13, with an LOD from 3.14 to 39.54, constituting 7.5% to 42.8% 
+of the phenotypic variation.
+CONCLUSIONS: To our knowledge, the highest density genetic map ever reported was 
+constructed since the largest mapping population of tea plants was adopted in
+present study. Moreover, novel QTLs related to flavonoids and CAF were identified
+based on the new high-density genetic map. In addition, two markers were located 
+in candidate genes that may be involved in flavonoid metabolism. The present
+study provides valuable information for gene discovery, marker-assisted selection
+breeding and map-based cloning for functional genes that are related to flavonoid
+content in tea plants.
+
+DOI: 10.1186/s12864-018-5291-8 
+PMCID: PMC6304016
+PMID: 30577813  [Indexed for MEDLINE]
+
+
+4. BMC Genomics. 2017 May 6;18(1):354. doi: 10.1186/s12864-017-3738-y.
+
+Footprints of domestication revealed by RAD-tag resequencing in loquat: SNP data 
+reveals a non-significant domestication bottleneck and a single domestication
+event.
+
+Wang Y(1)(2), Shahid MQ(1), Lin S(3), Chen C(1), Hu C(1).
+
+Author information: 
+(1)Key Laboratory of Biology and Germplasm Creation of Horticultural Crop
+(Southern China), Ministry of Agriculture, South China Agriculrual University,
+Guangzhou, 510642, China.
+(2)College of Environment and Life Science, Kaili University, Guizhou, 556011,
+China.
+(3)Key Laboratory of Biology and Germplasm Creation of Horticultural Crop
+(Southern China), Ministry of Agriculture, South China Agriculrual University,
+Guangzhou, 510642, China. loquat@scau.edu.cn.
+
+BACKGROUND: The process of crop domestication has long been a major area of
+research to gain insights into the history of human civilization and to
+understand the process of evolution. Loquat (Eriobotrya japonica Lindl.) is one
+of the typical subtropical fruit trees, which was domesticated in China at least 
+2000 years ago. In the present study, we re-sequenced the genome of nine wild
+loquat accessions collected from wide geographical range and 10 representative
+cultivated loquat cultivars by using RAD-tag tacit to exploit the molecular
+footprints of domestication.
+RESULTS: We obtained 26.4 Gb clean sequencing data from 19 loquat accessions,
+with an average of 32.64 M reads per genotype. We identified more than 80,000
+SNPs distributed throughout the loquat genome. The SNP density and numbers were
+slightly higher in the wild loquat populations than that in the cultivated
+populations. All cultivars were clustered together by structure, phylogenetic and
+PCA analyses.
+CONCLUSION: The modern loquat cultivars have experienced a non-significant
+genetic bottleneck during domestication, and originated from a single
+domesticated event. Moreover, our study revealed that Hubei province of China is 
+probably the origin center of cultivated loquat.
+
+DOI: 10.1186/s12864-017-3738-y 
+PMCID: PMC5420408
+PMID: 28477616  [Indexed for MEDLINE]
+
+
+5. PLoS One. 2017 Jan 26;12(1):e0170655. doi: 10.1371/journal.pone.0170655.
+eCollection 2017.
+
+SNP-Discovery by RAD-Sequencing in a Germplasm Collection of Wild and Cultivated 
+Grapevines (V. vinifera L.).
+
+Marrano A(1), Birolo G(2), Prazzoli ML(1), Lorenzi S(1), Valle G(2)(3), Grando
+MS(1).
+
+Author information: 
+(1)Department of Genomics and Biology of Fruit Crops, Grapevine Genetics and
+Breeding, Research and Innovation Centre, Fondazione Edmund Mach, San Michele
+all'Adige, Trentino, Italy.
+(2)CRIBI Biotechnology Centre, University of Padua, Padua, Italy.
+(3)Department of Biology, University of Padua, Padua, Italy.
+
+Whole-genome comparisons of Vitis vinifera subsp. sativa and V. vinifera subsp.
+sylvestris are expected to provide a better estimate of the valuable genetic
+diversity still present in grapevine, and help to reconstruct the evolutionary
+history of a major crop worldwide. To this aim, the increase of molecular marker 
+density across the grapevine genome is fundamental. Here we describe the SNP
+discovery in a grapevine germplasm collection of 51 cultivars and 44 wild
+accessions through a novel protocol of restriction-site associated DNA (RAD)
+sequencing. By resequencing 1.1% of the grapevine genome at a high coverage, we
+recovered 34K BamHI unique restriction sites, of which 6.8% were absent in the
+'PN40024' reference genome. Moreover, we identified 37,748 single nucleotide
+polymorphisms (SNPs), 93% of which belonged to the 19 assembled chromosomes with 
+an average of 1.8K SNPs per chromosome. Nearly half of the SNPs fell in genic
+regions mostly assigned to the functional categories of metabolism and
+regulation, whereas some nonsynonymous variants were identified in genes related 
+with the detection and response to environmental stimuli. SNP validation was
+carried-out, showing the ability of RAD-seq to accurately determine genotypes in 
+a highly heterozygous species. To test the usefulness of our SNP panel, the main 
+diversity statistics were evaluated, highlighting how the wild grapevine retained
+less genetic variability than the cultivated form. Furthermore, the analysis of
+Linkage Disequilibrium (LD) in the two subspecies separately revealed how the LD 
+decays faster within the domesticated grapevine compared to its wild relative.
+Being the first application of RAD-seq in a diverse grapevine germplasm
+collection, our approach holds great promise for exploiting the genetic resources
+available in one of the most economically important fruit crops.
+
+DOI: 10.1371/journal.pone.0170655 
+PMCID: PMC5268455
+PMID: 28125640  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+6. Parasit Vectors. 2017 Jan 17;10(1):31. doi: 10.1186/s13071-016-1959-6.
+
+Genome-wide SNP analysis using 2b-RAD sequencing identifies the candidate genes
+putatively associated with resistance to ivermectin in Haemonchus contortus.
+
+Luo X(1)(2), Shi X(1)(3), Yuan C(1)(4), Ai M(1), Ge C(1)(3), Hu M(5), Feng X(6), 
+Yang X(7).
+
+Author information: 
+(1)Shanghai Veterinary Research Institute, Chinese Academy of Agricultural
+Sciences, Key Laboratory of Animal Parasitology, Ministry of Agriculture of
+China, Shanghai, 200241, People's Republic of China.
+(2)College of Veterinary Medicine, Inner Mongolia Agricultural University,
+Hohhot, 010010, Inner Mongolia Nationality Autonomous, People's Republic of
+China.
+(3)College of Life and Environmental Sciences, Shanghai Normal University,
+Shanghai, 250014, People's Republic of China.
+(4)Jiangsu Co-innovation Center for Prevention and Control of Important Animal
+Infectious Diseases and Zoonoses, Yangzhou, 225009, Jiangsu Province, People's
+Republic of China.
+(5)State Key Laboratory of Agricultural Microbiology, Key Laboratory of
+Development of Veterinary Diagnostic Products, Ministry of Agriculture, College
+of Veterinary Medicine, Huazhong Agricultural University, 1 Shizishan Street,
+Wuhan, 430070, Hubei Province, People's Republic of China.
+(6)Shanghai Veterinary Research Institute, Chinese Academy of Agricultural
+Sciences, Key Laboratory of Animal Parasitology, Ministry of Agriculture of
+China, Shanghai, 200241, People's Republic of China. xingangf62@aliyun.com.
+(7)College of Veterinary Medicine, Inner Mongolia Agricultural University,
+Hohhot, 010010, Inner Mongolia Nationality Autonomous, People's Republic of
+China. xiaoyeyang122@sohu.com.
+
+BACKGROUND: The excessive and uncontrolled use of anthelmintics, e.g. ivermectin 
+(IVM) for the treatment of livestock parasites has led to widespread resistance
+in gastrointestinal nematodes, such as Haemonchus contortus. There is an urgent
+need for better management of drug-use in nematode control and development of
+novel anthelmintics. Discovery and identification of anthelmintic
+resistance-associate molecules/markers can provide a basis for rational
+anthelmintics-use and development of novel drugs. Recent studies have shown that 
+ivermectin resistance in H. contortus is likely to be multi-genic in nature
+except for several genes coding for IVM target and efflux pump. However, no other
+IVM resistance-associated genes were characterized by conventional methods or
+strategies. In the present study we adopted a new strategy, i.e. using
+genome-wide single nucleotide polymorphism (SNP) analysis based on 2b-RAD
+sequencing, for discovering SNPs markers across the genomes in both IVM
+susceptible and resistant isolates of H. contortus and identifying potential IVM 
+resistance-associated genes.
+RESULTS: We discovered 2962 and 2667 SNPs within both susceptible and resistant
+strains of H. contortus, respectively. A relative lower and similar genetic
+variations were observed within both resistant and susceptible strains (average π
+values were equal to 0.1883 and 0.1953, respectively); whereas a high genetic
+variation was found across both strains (average π value was equal to 0.3899). A 
+significant differentiation across 2b-RAD tags nucleotide sites was also observed
+between the two strains (average FST value was equal to 0.3076); the larger
+differences in average FST were observed at SNPs loci between coding and
+noncoding (including intronic) regions. Comparison between resistant and
+susceptible strains revealed that 208 SNPs loci exhibited significantly elevated 
+FST values, 24 SNPs of those loci were located in the CDS regions of the nine
+genes and were likely to have signature of IVM directional selection. Seven of
+the nine candidate genes were predicted to code for some functional proteins such
+as potential IVM target and/or efflux pump proteins, component proteins of
+receptor complex in membrane on neuromuscular cells, and transcriptional
+regulation proteins. Those genes might be involved in resistance to IVM.
+CONCLUSIONS: Our data suggest that candidate genes putatively associated with
+resistance to IVM in H. contortus may be identified by genome-wide SNP analysis
+using 2b-RAD sequencing.
+
+DOI: 10.1186/s13071-016-1959-6 
+PMCID: PMC5240194
+PMID: 28095895  [Indexed for MEDLINE]
+
+
+7. Mar Genomics. 2016 Aug;28:57-62. doi: 10.1016/j.margen.2016.07.003. Epub 2016 Jul
+19.
+
+RAD SNP markers as a tool for conservation of dolphinfish Coryphaena hippurus in 
+the Mediterranean Sea: Identification of subtle genetic structure and assessment 
+of populations sex-ratios.
+
+Maroso F(1), Franch R(2), Dalla Rovere G(2), Arculeo M(3), Bargelloni L(2).
+
+Author information: 
+(1)Department of Compared Biomedicine and Food Science, University of Padova,
+viale dell'Università, 16, 35020 Legnaro, Italy. Electronic address:
+francesco.maroso@studenti.unipd.it.
+(2)Department of Compared Biomedicine and Food Science, University of Padova,
+viale dell'Università, 16, 35020 Legnaro, Italy.
+(3)Department STEBICEF, University of Palermo, CoNISMa, via Archirafi, 18, 90123 
+Palermo, Italy.
+
+Dolphinfish is an important fish species for both commercial and sport fishing,
+but so far limited information is available on genetic variability and pattern of
+differentiation of dolphinfish populations in the Mediterranean basin. Recently
+developed techniques allow genome-wide identification of genetic markers for
+better understanding of population structure in species with limited genome
+information. Using restriction-site associated DNA analysis we successfully
+genotyped 140 individuals of dolphinfish from eight locations in the
+Mediterranean Sea at 3324 SNP loci. We identified 311 sex-related loci that were 
+used to assess sex-ratio in dolphinfish populations. In addition, we identified a
+weak signature of genetic differentiation of the population closer to Gibraltar
+Strait in comparison to other Mediterranean populations, which might be related
+to introgression of individuals from Atlantic. No further genetic differentiation
+could be detected in the other populations sampled, as expected considering the
+known highly mobility of the species. The results obtained improve our knowledge 
+of the species and can help managing dolphinfish stock in the future.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.margen.2016.07.003 
+PMID: 27450636  [Indexed for MEDLINE]
+
+
+8. Mol Ecol Resour. 2016 Jul;16(4):991-1001. doi: 10.1111/1755-0998.12518. Epub 2016
+Mar 22.
+
+Population structure of Atlantic mackerel inferred from RAD-seq-derived SNP
+markers: effects of sequence clustering parameters and hierarchical SNP
+selection.
+
+Rodríguez-Ezpeleta N(1), Bradbury IR(2), Mendibil I(1), Álvarez P(1), Cotano
+U(1), Irigoien X(3).
+
+Author information: 
+(1)Marine Research Division, AZTI, Txatxarramend ugartea z/g, Sukarrieta 48395,
+Bizkaia, Spain.
+(2)Department of Fisheries and Oceans, St. John's, NF A1C 5X1, Canada.
+(3)Red Sea Research Center, King Abdullah University of Technology, Thuwal 23955,
+Saudi Arabia.
+
+Restriction-site-associated DNA sequencing (RAD-seq) and related methods are
+revolutionizing the field of population genomics in nonmodel organisms as they
+allow generating an unprecedented number of single nucleotide polymorphisms
+(SNPs) even when no genomic information is available. Yet, RAD-seq data analyses 
+rely on assumptions on nature and number of nucleotide variants present in a
+single locus, the choice of which may lead to an under- or overestimated number
+of SNPs and/or to incorrectly called genotypes. Using the Atlantic mackerel
+(Scomber scombrus L.) and a close relative, the Atlantic chub mackerel (Scomber
+colias), as case study, here we explore the sensitivity of population structure
+inferences to two crucial aspects in RAD-seq data analysis: the maximum number of
+mismatches allowed to merge reads into a locus and the relatedness of the
+individuals used for genotype calling and SNP selection. Our study resolves the
+population structure of the Atlantic mackerel, but, most importantly, provides
+insights into the effects of alternative RAD-seq data analysis strategies on
+population structure inferences that are directly applicable to other species.
+
+© 2016 John Wiley & Sons Ltd.
+
+DOI: 10.1111/1755-0998.12518 
+PMID: 26936210  [Indexed for MEDLINE]
+
+
+9. Mol Genet Genomics. 2016 Jun;291(3):1277-91. doi: 10.1007/s00438-016-1182-3. Epub
+2016 Mar 1.
+
+SNP discovery in common bean by restriction-associated DNA (RAD) sequencing for
+genetic diversity and population structure analysis.
+
+Valdisser PA(1), Pappas GJ Jr(2), de Menezes IP(3), Müller BS(4), Pereira WJ(5), 
+Narciso MG(1), Brondani C(1), Souza TL(1), Borba TC(1), Vianello RP(6).
+
+Author information: 
+(1)Laboratório de Biotecnologia, Embrapa Arroz e Feijão, Santo Antônio de Goiás, 
+GO, Brazil.
+(2)Laboratório de Biologia Molecular, Departamento de Biologia Celular,
+Universidade de Brasília (UnB), Brasilia, DF, Brazil.
+(3)Laboratório de Genética e Biologia Molecular, Departamento de Biologia,
+Instituto Federal Goiano (IF Goiano), Urutaí, GO, Brazil.
+(4)Programa de Pós-Graduação em Biologia Molecular, Universidade de Brasília
+(UnB), Brasilia, DF, Brazil.
+(5)Programa de Pós-Graduação em Ciências Biológicas, Universidade Federal de
+Goiás (UFG), Goiânia, GO, Brazil.
+(6)Laboratório de Biotecnologia, Embrapa Arroz e Feijão, Santo Antônio de Goiás, 
+GO, Brazil. rosana.vianello@embrapa.br.
+
+Researchers have made great advances into the development and application of
+genomic approaches for common beans, creating opportunities to driving more real 
+and applicable strategies for sustainable management of the genetic resource
+towards plant breeding. This work provides useful polymorphic single-nucleotide
+polymorphisms (SNPs) for high-throughput common bean genotyping developed by RAD 
+(restriction site-associated DNA) sequencing. The RAD tags were generated from
+DNA pooled from 12 common bean genotypes, including breeding lines of different
+gene pools and market classes. The aligned sequences identified 23,748 putative
+RAD-SNPs, of which 3357 were adequate for genotyping; 1032 RAD-SNPs with the
+highest ADT (assay design tool) score are presented in this article. The RAD-SNPs
+were structurally annotated in different coding (47.00 %) and non-coding
+(53.00 %) sequence components of genes. A subset of 384 RAD-SNPs with broad
+genome distribution was used to genotype a diverse panel of 95 common bean
+germplasms and revealed a successful amplification rate of 96.6 %, showing 73 %
+of polymorphic SNPs within the Andean group and 83 % in the Mesoamerican group. A
+slightly increased He (0.161, n = 21) value was estimated for the Andean gene
+pool, compared to the Mesoamerican group (0.156, n = 74). For the linkage
+disequilibrium (LD) analysis, from a group of 580 SNPs (289 RAD-SNPs and 291
+BARC-SNPs) genotyped for the same set of genotypes, 70.2 % were in LD, decreasing
+to 0.10 %in the Andean group and 0.77 % in the Mesoamerican group. Haplotype
+patterns spanning 310 Mb of the genome (60 %) were characterized in samples from 
+different origins. However, the haplotype frameworks were under-represented for
+the Andean (7.85 %) and Mesoamerican (5.55 %) gene pools separately. In
+conclusion, RAD sequencing allowed the discovery of hundreds of useful SNPs for
+broad genetic analysis of common bean germplasm. From now, this approach provides
+an excellent panel of molecular tools for whole genome analysis, allowing
+integrating and better exploring the common bean breeding practices.
+
+DOI: 10.1007/s00438-016-1182-3 
+PMID: 26932372  [Indexed for MEDLINE]
+
+
+10. J Biol Res (Thessalon). 2015 Oct 6;22:11. doi: 10.1186/s40709-015-0034-3.
+eCollection 2015 Dec.
+
+SNP-based genetic linkage map of tobacco (Nicotiana tabacum L.) using
+next-generation RAD sequencing.
+
+Xiao B(#)(1), Tan Y(#)(2), Long N(2), Chen X(1), Tong Z(1), Dong Y(2), Li Y(1).
+
+Author information: 
+(1)Yunnan Academy of Tobacco Agricultural Science, Yuantong Street No. 33,
+Kunming, 650021 Yunnan China.
+(2)Faculty of Life Science and Technology, Kunming University of Science and
+Technology, JingMing South Road No. 727, Kunming, 650500 Yunnan China.
+(#)Contributed equally
+
+BACKGROUND: Tobacco (Nicotiana tabacum L.) is an important model system, which
+has been widely used in plant physiological studies and it is particularly useful
+as a bioreactor. Despite its importance, only limited molecular marker resources 
+are available for genome analysis, genetic mapping and breeding. Restriction-site
+associated DNA sequencing (RAD-seq) is a powerful new method for targeted
+sequencing across the genomes of many individuals. This approach has broad
+potential for genetic analysis through linkage mapping.
+RESULTS: We constructed a RAD library using genomic DNA from a BC1 backcross
+population. Sequencing of 196 individuals was performed on an Illumina
+HiSeq 2500. Two linkage maps were constructed, one with a reference genome and
+another, termed as de novo identification of single nucleotide polymorphism (SNP)
+by RAD-seq, without a reference genome. Overall, 4138 and 2162 SNP markers with a
+total length of 1944.74 and 2000.9 cM were mapped to 24 linkage groups in the
+genetic maps based on reference genome and without reference, respectively.
+CONCLUSIONS: Using two different SNP discovery methods based on next generation
+RAD sequencing technology, we have respectively mapped 2162 and 4318 SNPs in our 
+backcross population. This study gives an excellent example for high density
+linkage map construction, irrespective of genome sequence availability, and
+provides saturated information for downstream genetic investigations such as
+quantitative trait locus analyses or genomic selection (e.g. bioreactor suitable 
+cultivars).
+
+DOI: 10.1186/s40709-015-0034-3 
+PMCID: PMC4607152
+PMID: 26473145 
+
+
+11. PLoS One. 2015 Jul 16;10(7):e0131572. doi: 10.1371/journal.pone.0131572.
+eCollection 2015.
+
+Identification of Laying-Related SNP Markers in Geese Using RAD Sequencing.
+
+Yu S(1), Chu W(1), Zhang L(1), Han H(2), Zhao R(2), Wu W(2), Zhu J(2), Dodson
+MV(3), Wei W(1), Liu H(1), Chen J(1).
+
+Author information: 
+(1)College of Animal Science and Technology, Nanjing Agricultural University,
+Nanjing, People's Republic of China.
+(2)Jiangsu Lihua Animal Husbandry CO., LTD, Changzhou, People's Republic of
+China.
+(3)Department of Animal Sciences, Washington State University, Pullman,
+Washington, 99164, United States of America.
+
+Laying performance is an important economical trait of goose production. As
+laying performance is of low heritability, it is of significance to develop a
+marker-assisted selection (MAS) strategy for this trait. Definition of sequence
+variation related to the target trait is a prerequisite of quantitating MAS, but 
+little is presently known about the goose genome, which greatly hinders the
+identification of genetic markers for the laying traits of geese. Recently
+developed restriction site-associated DNA (RAD) sequencing is a possible approach
+for discerning large-scale single nucleotide polymorphism (SNP) and reducing the 
+complexity of a genome without having reference genomic information available. In
+the present study, we developed a pooled RAD sequencing strategy for detecting
+geese laying-related SNP. Two DNA pools were constructed, each consisting of
+equal amounts of genomic DNA from 10 individuals with either high estimated
+breeding value (HEBV) or low estimated breeding value (LEBV). A total of 139,013 
+SNP were obtained from 42,291,356 sequences, of which 18,771,943 were for LEBV
+and 23,519,413 were for HEBV cohorts. Fifty-five SNP which had different allelic 
+frequencies in the two DNA pools were further validated by individual-based
+AS-PCR genotyping in the LEBV and HEBV cohorts. Ten out of 55 SNP exhibited
+distinct allele distributions in these two cohorts. These 10 SNP were further
+genotyped in a goose population of 492 geese to verify the association with egg
+numbers. The result showed that 8 of 10 SNP were associated with egg numbers.
+Additionally, liner regression analysis revealed that SNP Record-111407, 106975
+and 112359 were involved in a multiplegene network affecting laying performance. 
+We used IPCR to extend the unknown regions flanking the candidate RAD tags. The
+obtained sequences were subjected to BLAST to retrieve the orthologous genes in
+either ducks or chickens. Five novel genes were cloned for geese which harbored
+the candidate laying-related SNP, including membrane associated guanylate kinase 
+(MAGI-1), KIAA1462, Rho GTPase activating protein 21 (ARHGAP21), acyl-CoA
+synthetase family member 2 (ACSF2), astrotactin 2 (ASTN2). Collectively, our data
+suggests that 8 SNP and 5 genes might be promising candidate markers or targets
+for marker-assisted selection of egg numbers in geese.
+
+DOI: 10.1371/journal.pone.0131572 
+PMCID: PMC4504669
+PMID: 26181055  [Indexed for MEDLINE]
+
+
+12. BMC Genomics. 2015 Feb 18;16:98. doi: 10.1186/s12864-015-1326-6.
+
+Identification of sex-linked SNP markers using RAD sequencing suggests ZW/ZZ sex 
+determination in Pistacia vera L.
+
+Kafkas S(1), Khodaeiaminjan M(2), Güney M(3), Kafkas E(4).
+
+Author information: 
+(1)Department of Horticulture, Faculty of Agriculture, University of Çukurova,
+Adana, Turkey. skafkas@cu.edu.tr.
+(2)Department of Horticulture, Faculty of Agriculture, University of Çukurova,
+Adana, Turkey. mortazakhodaei@yahoo.com.
+(3)Department of Horticulture, Faculty of Agriculture, University of Çukurova,
+Adana, Turkey. muratguney.dna@gmail.com.
+(4)Department of Horticulture, Faculty of Agriculture, University of Çukurova,
+Adana, Turkey. ebru@cu.edu.tr.
+
+BACKGROUND: Pistachio (Pistacia vera L.) is a dioecious species that has a long
+juvenility period. Therefore, development of marker-assisted selection (MAS)
+techniques would greatly facilitate pistachio cultivar-breeding programs. The sex
+determination mechanism is presently unknown in pistachio. The generation of
+sex-linked markers is likely to reduce time, labor, and costs associated with
+breeding programs, and will help to clarify the sex determination system in
+pistachio.
+RESULTS: Restriction site-associated DNA (RAD) markers were used to identify
+sex-linked markers and to elucidate the sex determination system in pistachio.
+Eight male and eight female F1 progenies from a Pistacia vera L. Siirt × Bağyolu 
+cross, along with the parents, were subjected to RAD sequencing in two lanes of a
+Hi-Seq 2000 sequencing platform. This generated 449 million reads, comprising
+approximately 37.7 Gb of sequences. There were 33,757 polymorphic single
+nucleotide polymorphism (SNP) loci between the parents. Thirty-eight of these,
+from 28 RAD reads, were detected as putative sex-associated loci in pistachio.
+Validation was performed by SNaPshot analysis in 42 mature F1 progenies and in
+124 cultivars and genotypes in a germplasm collection. Eight loci could
+distinguish sex with 100% accuracy in pistachio. To ascertain cost-effective
+application of markers in a breeding program, high-resolution melting (HRM)
+analysis was performed; four markers were found to perfectly separate sexes in
+pistachio. Because of the female heterogamety in all candidate SNP loci, we
+report for the first time that pistachio has a ZZ/ZW sex determination system. As
+the reported female-to-male segregation ratio is 1:1 in all known segregating
+populations and there is no previous report of super-female genotypes or female
+heteromorphic chromosomes in pistachio, it appears that the WW genotype is not
+viable.
+CONCLUSION: Sex-linked SNP markers were identified and validated in a large
+germplasm and proved their suitability for MAS in pistachio. HRM analysis
+successfully validated the sex-linked markers for MAS. For the first time in
+dioecious pistachio, a female heterogamety ZW/ZZ sex determination system is
+suggested.
+
+DOI: 10.1186/s12864-015-1326-6 
+PMCID: PMC4336685
+PMID: 25765114  [Indexed for MEDLINE]
+
+
+13. PLoS One. 2014 Oct 10;9(10):e109850. doi: 10.1371/journal.pone.0109850.
+eCollection 2014.
+
+Rapid SNP discovery and a RAD-based high-density linkage map in jujube (Ziziphus 
+Mill.).
+
+Zhao J(1), Jian J(2), Liu G(3), Wang J(4), Lin M(5), Ming Y(2), Liu Z(5), Chen
+Y(5), Liu X(5), Liu M(6).
+
+Author information: 
+(1)College of Life Science, Agricultural University of Hebei, Baoding, China.
+(2)BGI-Shenzhen, Shenzhen, China.
+(3)College of Life Science, Nankai University, Tianjin, China.
+(4)College of Forestry, Agricultural University of Hebei, Baoding, China.
+(5)Research Center of Chinese Jujube, Agricultural University of Hebei, Baoding, 
+China.
+(6)Research Center of Chinese Jujube, Agricultural University of Hebei, Baoding, 
+China; National Agricultural Engineering Center for North Mountain Region of the 
+Ministry of Science and Technology, Baoding, China.
+
+BACKGROUND: Ziziphus Mill. (jujube), the most valued genus of Rhamnaceae,
+comprises of a number of economically and ecologically important species such as 
+Z. jujuba Mill., Z. acidojujuba Cheng et Liu and Z. mauritiana Lam. Single
+nucleotide polymorphism (SNP) markers and a high-density genetic map are of great
+benefit to the improvement of the crop, mapping quantitative trait loci (QTL) and
+analyzing genome structure. However, such a high-density map is still absent in
+the genus Ziziphus and even the family Rhamnaceae. The recently developed
+restriction-site associated DNA (RAD) marker has been proven to be most powerful 
+in genetic map construction. The objective of this study was to construct a
+high-density linkage map using the RAD tags generated by next generation
+sequencing.
+RESULTS: An interspecific F1 population and their parents (Z. jujuba Mill. 'JMS2'
+× Z. acidojujuba Cheng et Liu 'Xing 16') were genotyped using a
+mapping-by-sequencing approach, to generate RAD-based SNP markers. A total of
+42,784 putative high quality SNPs were identified between the parents and 2,872
+high-quality RAD markers were grouped in genetic maps. Of the 2,872 RAD markers, 
+1,307 were linked to the female genetic map, 1,336 to the male map, and 2,748 to 
+the integrated map spanning 913.87 centi-morgans (cM) with an average marker
+interval of 0.34 cM. The integrated map contained 12 linkage groups (LGs),
+consistent with the haploid chromosome number of the two parents.
+CONCLUSION: We first generated a high-density genetic linkage map with 2,748 RAD 
+markers for jujube and a large number of SNPs were also developed. It provides a 
+useful tool for both marker-assisted breeding and a variety of genome
+investigations in jujube, such as sequence assembly, gene localization, QTL
+detection and genome structure comparison.
+
+DOI: 10.1371/journal.pone.0109850 
+PMCID: PMC4193841
+PMID: 25303289  [Indexed for MEDLINE]
+
+
+14. PLoS One. 2014 Jul 11;9(7):e98628. doi: 10.1371/journal.pone.0098628. eCollection
+2014.
+
+A high-density SNP Map of sunflower derived from RAD-sequencing facilitating
+fine-mapping of the rust resistance gene R12.
+
+Talukder ZI(1), Gong L(2), Hulke BS(3), Pegadaraju V(4), Song Q(5), Schultz Q(4),
+Qi L(3).
+
+Author information: 
+(1)Department of Plant Sciences, North Dakota State University, Fargo, North
+Dakota, United States of America.
+(2)Department of Plant Pathology, North Dakota State University, Fargo, North
+Dakota, United States of America.
+(3)Northern Crop Science Laboratory, USDA- Agricultural Research Service, Fargo, 
+North Dakota, United States of America.
+(4)BioDiagnostics Inc., River Falls, Wisconsin, United States of America.
+(5)Soybean Genomics and Improvement Lab, USDA- Agricultural Research Service,
+Beltsville, Maryland, United States of America.
+
+A high-resolution genetic map of sunflower was constructed by integrating SNP
+data from three F2 mapping populations (HA 89/RHA 464, B-line/RHA 464, and CR
+29/RHA 468). The consensus map spanned a total length of 1443.84 cM, and
+consisted of 5,019 SNP markers derived from RAD tag sequencing and 118 publicly
+available SSR markers distributed in 17 linkage groups, corresponding to the
+haploid chromosome number of sunflower. The maximum interval between markers in
+the consensus map is 12.37 cM and the average distance is 0.28 cM between
+adjacent markers. Despite a few short-distance inversions in marker order, the
+consensus map showed high levels of collinearity among individual maps with an
+average Spearman's rank correlation coefficient of 0.972 across the genome. The
+order of the SSR markers on the consensus map was also in agreement with the
+order of the individual map and with previously published sunflower maps. Three
+individual and one consensus maps revealed the uneven distribution of markers
+across the genome. Additionally, we performed fine mapping and marker validation 
+of the rust resistance gene R12, providing closely linked SNP markers for
+marker-assisted selection of this gene in sunflower breeding programs. This high 
+resolution consensus map will serve as a valuable tool to the sunflower community
+for studying marker-trait association of important agronomic traits, marker
+assisted breeding, map-based gene cloning, and comparative mapping.
+
+DOI: 10.1371/journal.pone.0098628 
+PMCID: PMC4094432
+PMID: 25014030  [Indexed for MEDLINE]
+
+
+15. PLoS One. 2013 Oct 16;8(10):e77832. doi: 10.1371/journal.pone.0077832.
+eCollection 2013.
+
+Identification of a sex-linked SNP marker in the salmon louse (Lepeophtheirus
+salmonis) using RAD sequencing.
+
+Carmichael SN(1), Bekaert M, Taggart JB, Christie HR, Bassett DI, Bron JE, Skuce 
+PJ, Gharbi K, Skern-Mauritzen R, Sturm A.
+
+Author information: 
+(1)  Institute of Aquaculture, University of Stirling, Stirling, United Kingdom.
+
+Erratum in
+    PLoS One. 2014;9(1). doi:10.1371/annotation/9a5a8f89-38b6-4ba3-aceb-65aa256f6157.
+
+The salmon louse (Lepeophtheirus salmonis (Krøyer, 1837)) is a parasitic copepod 
+that can, if untreated, cause considerable damage to Atlantic salmon (Salmo salar
+Linnaeus, 1758) and incurs significant costs to the Atlantic salmon mariculture
+industry. Salmon lice are gonochoristic and normally show sex ratios close to
+1:1. While this observation suggests that sex determination in salmon lice is
+genetic, with only minor environmental influences, the mechanism of sex
+determination in the salmon louse is unknown. This paper describes the
+identification of a sex-linked Single Nucleotide Polymorphism (SNP) marker,
+providing the first evidence for a genetic mechanism of sex determination in the 
+salmon louse. Restriction site-associated DNA sequencing (RAD-seq) was used to
+isolate SNP markers in a laboratory-maintained salmon louse strain. A total of 85
+million raw Illumina 100 base paired-end reads produced 281,838 unique RAD-tags
+across 24 unrelated individuals. RAD marker Lsa101901 showed complete association
+with phenotypic sex for all individuals analysed, being heterozygous in females
+and homozygous in males. Using an allele-specific PCR assay for genotyping, this 
+SNP association pattern was further confirmed for three unrelated salmon louse
+strains, displaying complete association with phenotypic sex in a total of 96
+genotyped individuals. The marker Lsa101901 was located in the coding region of
+the prohibitin-2 gene, which showed a sex-dependent differential expression, with
+mRNA levels determined by RT-qPCR about 1.8-fold higher in adult female than
+adult male salmon lice. This study's observations of a novel sex-linked SNP
+marker are consistent with sex determination in the salmon louse being genetic
+and following a female heterozygous system. Marker Lsa101901 provides a tool to
+determine the genetic sex of salmon lice, and could be useful in the development 
+of control strategies.
+
+DOI: 10.1371/journal.pone.0077832 
+PMCID: PMC3797693
+PMID: 24147087  [Indexed for MEDLINE]
+
+
+16. BMC Genomics. 2013 Aug 15;14:556. doi: 10.1186/1471-2164-14-556.
+
+De novo sequencing of sunflower genome for SNP discovery using RAD (Restriction
+site Associated DNA) approach.
+
+Pegadaraju V(1), Nipper R, Hulke B, Qi L, Schultz Q.
+
+Author information: 
+(1)BioDiagnostics, Inc, 507 Highland Drive, River Falls, WI 54022, USA.
+peg_ven@yahoo.com.
+
+BACKGROUND: Application of Single Nucleotide Polymorphism (SNP) marker technology
+as a tool in sunflower breeding programs offers enormous potential to improve
+sunflower genetics, and facilitate faster release of sunflower hybrids to the
+market place. Through a National Sunflower Association (NSA) funded initiative,
+we report on the process of SNP discovery through reductive genome sequencing and
+local assembly of six diverse sunflower inbred lines that represent oil as well
+as confection types.
+RESULTS: A combination of Restriction site Associated DNA Sequencing (RAD-Seq)
+protocols and Illumina paired-end sequencing chemistry generated high quality
+89.4 M paired end reads from the six lines which represent 5.3 GB of the
+sequencing data. Raw reads from the sunflower line, RHA 464 were assembled de
+novo to serve as a framework reference genome. About 15.2 Mb of sunflower genome 
+distributed over 42,267 contigs were obtained upon assembly of RHA 464 sequencing
+data, the contig lengths ranged from 200 to 950 bp with an N50 length of 393 bp. 
+SNP calling was performed by aligning sequencing data from the six sunflower
+lines to the assembled reference RHA 464. On average, 1 SNP was located every
+143 bp of the sunflower genome sequence. Based on several filtering criteria, a
+final set of 16,467 putative sequence variants with characteristics favorable for
+Illumina Infinium Genotyping Technology (IGT) were mined from the sequence data
+generated across six diverse sunflower lines.
+CONCLUSION: Here we report the molecular and computational methodology involved
+in SNP development for a complex genome like sunflower lacking reference
+assembly, offering an attractive tool for molecular breeding purposes in
+sunflower.
+
+DOI: 10.1186/1471-2164-14-556 
+PMCID: PMC3765701
+PMID: 23947483  [Indexed for MEDLINE]
+
+
+17. Mol Ecol Resour. 2013 Sep;13(5):899-907. doi: 10.1111/1755-0998.12137. Epub 2013 
+Jul 16.
+
+Mass production of SNP markers in a nonmodel passerine bird through RAD
+sequencing and contig mapping to the zebra finch genome.
+
+Bourgeois YX(1), Lhuillier E, Cézard T, Bertrand JA, Delahaie B, Cornuault J,
+Duval T, Bouchez O, Milá B, Thébaud C.
+
+Author information: 
+(1)Laboratoire Évolution et Diversité Biologique, UMR 5174 CNRS - Université Paul
+Sabatier - ENFA, 118 route de Narbonne, Bâtiment 4R1, F-31062, Toulouse Cedex 9, 
+France. yann.x.c.bourgeois@gmail.com
+
+Here, we present an adaptation of restriction-site-associated DNA sequencing
+(RAD-seq) to the Illumina HiSeq2000 technology that we used to produce SNP
+markers in very large quantities at low cost per unit in the Réunion grey
+white-eye (Zosterops borbonicus), a nonmodel passerine bird species with no
+reference genome. We sequenced a set of six pools of 18-25 individuals using a
+single sequencing lane. This allowed us to build around 600 000 contigs, among
+which at least 386 000 could be mapped to the zebra finch (Taeniopygia guttata)
+genome. This yielded more than 80 000 SNPs that could be mapped unambiguously and
+are evenly distributed across the genome. Thus, our approach provides a good
+illustration of the high potential of paired-end RAD sequencing of pooled DNA
+samples combined with comparative assembly to the zebra finch genome to build
+large contigs and characterize vast numbers of informative SNPs in nonmodel
+passerine bird species in a very efficient and cost-effective way.
+
+© 2013 John Wiley & Sons Ltd.
+
+DOI: 10.1111/1755-0998.12137 
+PMID: 23855484  [Indexed for MEDLINE]
+
+
+18. Mol Ecol Resour. 2013 Sep;13(5):938-45. doi: 10.1111/1755-0998.12136. Epub 2013
+Jul 13.
+
+Identification of SNP markers for inferring phylogeny in temperate bamboos
+(Poaceae: Bambusoideae) using RAD sequencing.
+
+Wang XQ(1), Zhao L, Eaton DA, Li DZ, Guo ZH.
+
+Author information: 
+(1)Plant Germplasm and Genomics Center, Germplasm Bank of Wild Species, Kunming
+Institute of Botany, Chinese Academy of Sciences, Kunming, 650201, China.
+
+Phylogenetic relationships among temperate species of bamboo are difficult to
+resolve, owing to both the challenge of detecting sufficiently variable markers
+and their polyploid history. Here, we use restriction site-associated DNA
+sequencing to identify candidate loci with fixed allelic differences segregating 
+between and within two temperate species of bamboos: Arundinaria faberi and
+Yushania brevipaniculata. Approximately 27 million paired-end sequencing reads
+were generated across four samples. From pooled data, we assembled 67 685 and
+70 668 de novo contigs from partial overlap among paired-end reads, with an
+average length of 240 and 241 bp for the two species, respectively, which were
+used to investigate functional classification of RAD tags in a blastx search.
+Analysed separately by population, we recovered 29 443 putatively orthologous RAD
+tags shared across the four sampled populations, containing 28 023 sequence
+variants, of which c. 13 000 are segregating between species, and c. 3000
+segregating between populations within each species. Analyses based on these RAD 
+tags yielded robust phylogenetic inferences, even with data set constructed from 
+surprisingly few loci. This study illustrates the potential for
+reduced-representation genome data to resolve difficult phylogenetic
+relationships in temperate bamboos.
+
+© 2013 John Wiley & Sons Ltd.
+
+DOI: 10.1111/1755-0998.12136 
+PMID: 23848836  [Indexed for MEDLINE]
+
+
+19. Mol Ecol. 2013 Jun;22(11):3112-23. doi: 10.1111/mec.12234. Epub 2013 Mar 8.
+
+Sturgeon conservation genomics: SNP discovery and validation using RAD
+sequencing.
+
+Ogden R(1), Gharbi K, Mugue N, Martinsohn J, Senn H, Davey JW, Pourkazemi M,
+McEwing R, Eland C, Vidotto M, Sergeev A, Congiu L.
+
+Author information: 
+(1)TRACE Wildlife Forensics Network, RZSS, Edinburgh, EH12 6TS, UK.
+rob.ogden@tracenetwork.org
+
+Caviar-producing sturgeons belonging to the genus Acipenser are considered to be 
+one of the most endangered species groups in the world. Continued overfishing in 
+spite of increasing legislation, zero catch quotas and extensive aquaculture
+production have led to the collapse of wild stocks across Europe and Asia. The
+evolutionary relationships among Adriatic, Russian, Persian and Siberian
+sturgeons are complex because of past introgression events and remain poorly
+understood. Conservation management, traceability and enforcement suffer a lack
+of appropriate DNA markers for the genetic identification of sturgeon at the
+species, population and individual level. This study employed RAD sequencing to
+discover and characterize single nucleotide polymorphism (SNP) DNA markers for
+use in sturgeon conservation in these four tetraploid species over three
+biological levels, using a single sequencing lane. Four population meta-samples
+and eight individual samples from one family were barcoded separately before
+sequencing. Analysis of 14.4 Gb of paired-end RAD data focused on the
+identification of SNPs in the paired-end contig, with subsequent in silico and
+empirical validation of candidate markers. Thousands of putatively informative
+markers were identified including, for the first time, SNPs that show
+population-wide differentiation between Russian and Persian sturgeons,
+representing an important advance in our ability to manage these cryptic species.
+The results highlight the challenges of genotyping-by-sequencing in polyploid
+taxa, while establishing the potential genetic resources for developing a new
+range of caviar traceability and enforcement tools.
+
+© 2013 John Wiley & Sons Ltd.
+
+DOI: 10.1111/mec.12234 
+PMID: 23473098  [Indexed for MEDLINE]
+
+
+20. Mol Ecol Resour. 2013 Mar;13(2):269-75. doi: 10.1111/1755-0998.12039. Epub 2012
+Dec 11.
+
+SNP discovery using Paired-End RAD-tag sequencing on pooled genomic DNA of
+Sisymbrium austriacum (Brassicaceae).
+
+Vandepitte K(1), Honnay O, Mergeay J, Breyne P, Roldán-Ruiz I, De Meyer T.
+
+Author information: 
+(1)Plant Conservation and Population Biology, Biology Department, University of
+Leuven, Kasteelpark Arenberg 31, Heverlee, B-3001, Belgium.
+katrien.vandepitte@bio.kuleuven.be
+
+Single nucleotide polymorphisms SNPs are rapidly replacing anonymous markers in
+population genomic studies, but their use in non model organisms is hampered by
+the scarcity of cost-effective approaches to uncover genome-wide variation in a
+comprehensive subset of individuals. The screening of one or only a few
+individuals induces ascertainment bias. To discover SNPs for a population genomic
+study of the Pyrenean rocket (Sisymbrium austriacum subsp. chrysanthum), we
+undertook a pooled RAD-PE (Restriction site Associated DNA Paired-End sequencing)
+approach. RAD tags were generated from the PstI-digested pooled genomic DNA of 12
+individuals sampled across the species distribution range and paired-end
+sequenced using Illumina technology to produce ~24.5 Mb of sequences, covering
+~7% of the specie's genome. Sequences were assembled into ~76 000 contigs with a 
+mean length of 323 bp (N(50)  = 357 bp, sequencing depth = 24x). In all, >15 000 
+SNPs were called, of which 47% were annotated in putative genic regions based on 
+homology with the Arabidopsis thaliana genome. Gene ontology (GO) slim
+categorization demonstrated that the identified SNPs covered extant genic
+variation well. The validation of 300 SNPs on a larger set of individuals using a
+KASPar assay underpinned the utility of pooled RAD-PE as an inexpensive
+genome-wide SNP discovery technique (success rate: 87%). In addition to SNPs, we 
+discovered >600 putative SSR markers.
+
+© 2012 Blackwell Publishing Ltd.
+
+DOI: 10.1111/1755-0998.12039 
+PMID: 23231662  [Indexed for MEDLINE]
+
+
+21. Mol Ecol Resour. 2012 Jul;12(4):653-60. doi: 10.1111/j.1755-0998.2012.03157.x.
+Epub 2012 Jun 6.
+
+RAD sequencing yields a high success rate for westslope cutthroat and rainbow
+trout species-diagnostic SNP assays.
+
+Amish SJ(1), Hohenlohe PA, Painter S, Leary RF, Muhlfeld C, Allendorf FW, Luikart
+G.
+
+Author information: 
+(1)Fish and Wildlife Genomics Group, Division of Biological Sciences, University 
+of Montana, Missoula, MT 59812, USA. stephen.amish@umontana.edu
+
+Hybridization with introduced rainbow trout threatens most native westslope
+cutthroat trout populations. Understanding the genetic effects of hybridization
+and introgression requires a large set of high-throughput, diagnostic genetic
+markers to inform conservation and management. Recently, we identified several
+thousand candidate single-nucleotide polymorphism (SNP) markers based on RAD
+sequencing of 11 westslope cutthroat trout and 13 rainbow trout individuals.
+Here, we used flanking sequence for 56 of these candidate SNP markers to design
+high-throughput genotyping assays. We validated the assays on a total of 92
+individuals from 22 populations and seven hatchery strains. Forty-six assays
+(82%) amplified consistently and allowed easy identification of westslope
+cutthroat and rainbow trout alleles as well as heterozygote controls. The 46 SNPs
+will provide high power for early detection of population admixture and improved 
+identification of hybrid and nonhybridized individuals. This technique shows
+promise as a very low-cost, reliable and relatively rapid method for developing
+and testing SNP markers for nonmodel organisms with limited genomic resources.
+
+© 2012 Blackwell Publishing Ltd.
+
+DOI: 10.1111/j.1755-0998.2012.03157.x 
+PMID: 22672623  [Indexed for MEDLINE]
+
+
+22. Methods Mol Biol. 2012;888:135-51. doi: 10.1007/978-1-61779-870-2_9.
+
+RAD paired-end sequencing for local de novo assembly and SNP discovery in
+non-model organisms.
+
+Etter PD(1), Johnson E.
+
+Author information: 
+(1)Institute of Molecular Biology, University of Oregon, Eugene, OR, USA.
+
+Restriction-site Associated DNA (RAD) markers are rapidly becoming a standard for
+SNP discovery and genotyping studies even in organisms without a sequenced
+reference genome. It is difficult, however, to identify genes nearby RAD markers 
+of interest or move from SNPs identified by RAD to a high-throughput genotyping
+assay. Paired-end sequencing of RAD fragments can alleviate these problems by
+generating a set of paired sequences that can be locally assembled into
+high-quality contigs up to 1 kb in length. These contigs can then be used for SNP
+identification, homology searching, or high-throughput assay primer design. In
+this chapter, we offer suggestions on how to design a RAD paired-end (RAD-PE)
+sequencing project and the protocol for creating paired-end RAD libraries
+suitable for Illumina sequencers.
+
+DOI: 10.1007/978-1-61779-870-2_9 
+PMID: 22665280  [Indexed for MEDLINE]
+
+
+23. BMC Genomics. 2012 Jan 3;13:3. doi: 10.1186/1471-2164-13-3.
+
+RAD tag sequencing as a source of SNP markers in Cynara cardunculus L.
+
+Scaglione D(1), Acquadro A, Portis E, Tirone M, Knapp SJ, Lanteri S.
+
+Author information: 
+(1)Di.Va.P.R.A. Plant Genetics and Breeding, University of Torino, via L. da
+Vinci44, 10095 Grugliasco (Torino), Italy.
+
+BACKGROUND: The globe artichoke (Cynara cardunculus L. var. scolymus) genome is
+relatively poorly explored, especially compared to those of the other major
+Asteraceae crops sunflower and lettuce. No SNP markers are in the public domain. 
+We have combined the recently developed restriction-site associated DNA (RAD)
+approach with the Illumina DNA sequencing platform to effect the rapid and mass
+discovery of SNP markers for C. cardunculus.
+RESULTS: RAD tags were sequenced from the genomic DNA of three C. cardunculus
+mapping population parents, generating 9.7 million reads, corresponding to ~1 Gbp
+of sequence. An assembly based on paired ends produced ~6.0 Mbp of genomic
+sequence, separated into ~19,000 contigs (mean length 312 bp), of which ~21% were
+fragments of putative coding sequence. The shared sequences allowed for the
+discovery of ~34,000 SNPs and nearly 800 indels, equivalent to a SNP frequency of
+5.6 per 1,000 nt, and an indel frequency of 0.2 per 1,000 nt. A sample of
+heterozygous SNP loci was mapped by CAPS assays and this exercise provided
+validation of our mining criteria. The repetitive fraction of the genome had a
+high representation of retrotransposon sequence, followed by simple repeats,
+AT-low complexity regions and mobile DNA elements. The genomic k-mers
+distribution and CpG rate of C. cardunculus, compared with data derived from
+three whole genome-sequenced dicots species, provided a further evidence of the
+random representation of the C. cardunculus genome generated by RAD sampling.
+CONCLUSION: The RAD tag sequencing approach is a cost-effective and rapid method 
+to develop SNP markers in a highly heterozygous species. Our approach permitted
+to generate a large and robust SNP datasets by the adoption of optimized
+filtering criteria.
+
+DOI: 10.1186/1471-2164-13-3 
+PMCID: PMC3269995
+PMID: 22214349  [Indexed for MEDLINE]
+
+
+24. Methods Mol Biol. 2011;772:157-78. doi: 10.1007/978-1-61779-228-1_9.
+
+SNP discovery and genotyping for evolutionary genetics using RAD sequencing.
+
+Etter PD(1), Bassham S, Hohenlohe PA, Johnson EA, Cresko WA.
+
+Author information: 
+(1)Institute of Molecular Biology, University of Oregon, Eugene, OR, USA.
+
+Next-generation sequencing technologies are revolutionizing the field of
+evolutionary biology, opening the possibility for genetic analysis at scales not 
+previously possible. Research in population genetics, quantitative trait mapping,
+comparative genomics, and phylogeography that was unthinkable even a few years
+ago is now possible. More importantly, these next-generation sequencing studies
+can be performed in organisms for which few genomic resources presently exist. To
+speed this revolution in evolutionary genetics, we have developed Restriction
+site Associated DNA (RAD) genotyping, a method that uses Illumina next-generation
+sequencing to simultaneously discover and score tens to hundreds of thousands of 
+single-nucleotide polymorphism (SNP) markers in hundreds of individuals for
+minimal investment of resources. In this chapter, we describe the core RAD-seq
+protocol, which can be modified to suit a diversity of evolutionary genetic
+questions. In addition, we discuss bioinformatic considerations that arise from
+unique aspects of next-generation sequencing data as compared to traditional
+marker-based approaches, and we outline some general analytical approaches for
+RAD-seq and similar data. Despite considerable progress, the development of
+analytical tools remains in its infancy, and further work is needed to fully
+quantify sampling variance and biases in these data types.
+
+DOI: 10.1007/978-1-61779-228-1_9 
+PMCID: PMC3658458
+PMID: 22065437  [Indexed for MEDLINE]
+
+
+25. BMC Genomics. 2011 Jun 10;12:304. doi: 10.1186/1471-2164-12-304.
+
+Identification of SNP and SSR markers in eggplant using RAD tag sequencing.
+
+Barchi L(1), Lanteri S, Portis E, Acquadro A, Valè G, Toppino L, Rotino GL.
+
+Author information: 
+(1)DIVAPRA Plant Genetics and Breeding, University of Torino, Grugliasco, Italy.
+
+BACKGROUND: The eggplant (Solanum melongena L.) genome is relatively unexplored, 
+especially compared to those of the other major Solanaceae crops tomato and
+potato. In particular, no SNP markers are publicly available; on the other hand, 
+over 1,000 SSR markers were developed and publicly available. We have combined
+the recently developed Restriction-site Associated DNA (RAD) approach with
+Illumina DNA sequencing for rapid and mass discovery of both SNP and SSR markers 
+for eggplant.
+RESULTS: RAD tags were generated from the genomic DNA of a pair of eggplant
+mapping parents, and sequenced to produce ~17.5 Mb of sequences arrangeable into 
+~78,000 contigs. The resulting non-redundant genomic sequence dataset consisted
+of ~45,000 sequences, of which ~29% were putative coding sequences and ~70% were 
+in common between the mapping parents. The shared sequences allowed the discovery
+of ~10,000 SNPs and nearly 1,000 indels, equivalent to a SNP frequency of 0.8 per
+Kb and an indel frequency of 0.07 per Kb. Over 2,000 of the SNPs are likely to be
+mappable via the Illumina GoldenGate assay. A subset of 384 SNPs was used to
+successfully fingerprint a panel of eggplant germplasm, producing a set of
+informative diversity data. The RAD sequences also included nearly 2,000 putative
+SSRs, and primer pairs were designed to amplify 1,155 loci.
+CONCLUSION: The high throughput sequencing of the RAD tags allowed the discovery 
+of a large number of DNA markers, which will prove useful for extending our
+current knowledge of the genome organization of eggplant, for assisting in
+marker-aided selection and for carrying out comparative genomic analyses within
+the Solanaceae family.
+
+DOI: 10.1186/1471-2164-12-304 
+PMCID: PMC3128069
+PMID: 21663628  [Indexed for MEDLINE]
+
+
+26. PLoS One. 2008;3(10):e3376. doi: 10.1371/journal.pone.0003376. Epub 2008 Oct 13.
+
+Rapid SNP discovery and genetic mapping using sequenced RAD markers.
+
+Baird NA(1), Etter PD, Atwood TS, Currey MC, Shiver AL, Lewis ZA, Selker EU,
+Cresko WA, Johnson EA.
+
+Author information: 
+(1)Institute of Molecular Biology, University of Oregon, Eugene, Oregon, United
+States of America.
+
+Single nucleotide polymorphism (SNP) discovery and genotyping are essential to
+genetic mapping. There remains a need for a simple, inexpensive platform that
+allows high-density SNP discovery and genotyping in large populations. Here we
+describe the sequencing of restriction-site associated DNA (RAD) tags, which
+identified more than 13,000 SNPs, and mapped three traits in two model organisms,
+using less than half the capacity of one Illumina sequencing run. We demonstrated
+that different marker densities can be attained by choice of restriction enzyme. 
+Furthermore, we developed a barcoding system for sample multiplexing and fine
+mapped the genetic basis of lateral plate armor loss in threespine stickleback by
+identifying recombinant breakpoints in F(2) individuals. Barcoding also
+facilitated mapping of a second trait, a reduction of pelvic structure, by in
+silico re-sorting of individuals. To further demonstrate the ease of the RAD
+sequencing approach we identified polymorphic markers and mapped an induced
+mutation in Neurospora crassa. Sequencing of RAD markers is an integrated
+platform for SNP discovery and genotyping. This approach should be widely
+applicable to genetic mapping in a variety of organisms.
+
+DOI: 10.1371/journal.pone.0003376 
+PMCID: PMC2557064
+PMID: 18852878  [Indexed for MEDLINE]
