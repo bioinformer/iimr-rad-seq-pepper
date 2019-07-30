@@ -1,0 +1,15 @@
+(bioinfo) sharmaiimr@sharmaiimr-HP-Pavilion-x360-Convertible:~/Documents/00_rad_seq/01_black_pepper/rawdata$ ls -lh ./KS/*.fastq ./OPP24/*.fastq ./P1/*.fastq ./SHAK/*.fastq ./SRE/*.fastq
+-rw-r--r-- 1 sharmaiimr sharmaiimr 615M Jan 12  2017 ./KS/KS_R1.fastq
+-rw-r--r-- 1 sharmaiimr sharmaiimr 615M Jan 12  2017 ./KS/KS_R2.fastq
+
+-rw-r--r-- 1 sharmaiimr sharmaiimr 768M Jan 12  2017 ./OPP24/OPP24_R1.fastq
+-rw-r--r-- 1 sharmaiimr sharmaiimr 768M Jan 12  2017 ./OPP24/OPP24_R2.fastq
+
+-rw-r--r-- 1 sharmaiimr sharmaiimr 768M Jan 12  2017 ./P1/P1_R1.fastq
+-rw-r--r-- 1 sharmaiimr sharmaiimr 768M Jan 12  2017 ./P1/P1_R2.fastq
+
+-rw-r--r-- 1 sharmaiimr sharmaiimr 775M Jan 11  2017 ./SHAK/SHAK_R1.fastq
+-rw-r--r-- 1 sharmaiimr sharmaiimr 775M Jan 11  2017 ./SHAK/SHAK_R2.fastq
+
+-rw-r--r-- 1 sharmaiimr sharmaiimr 794M Jan 11  2017 ./SRE/SRE_R1.fastq
+-rw-r--r-- 1 sharmaiimr sharmaiimr 794M Jan 11  2017 ./SRE/SRE_R2.fastq
