@@ -1,3 +1,16 @@
+PASS	Basic Statistics	KS_R2.fastq
+PASS	Per base sequence quality	KS_R2.fastq
+PASS	Per tile sequence quality	KS_R2.fastq
+PASS	Per sequence quality scores	KS_R2.fastq
+FAIL	Per base sequence content	KS_R2.fastq
+PASS	Per sequence GC content	KS_R2.fastq
+PASS	Per base N content	KS_R2.fastq
+PASS	Sequence Length Distribution	KS_R2.fastq
+FAIL	Sequence Duplication Levels	KS_R2.fastq
+WARN	Overrepresented sequences	KS_R2.fastq
+FAIL	Adapter Content	KS_R2.fastq
+
+
 ##FastQC	0.11.8
 >>Basic Statistics	pass
 #Measure	Value
