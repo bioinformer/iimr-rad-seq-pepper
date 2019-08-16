@@ -1,0 +1,133 @@
+(bioinfo) sharmaiimr@sharmaiimr-HP-Pavilion-x360-Convertible:~/Documents/00_rad_seq/02_protocol/RADtools/KS$ seqkit stat KS_*.fastq
+file        format  type   num_seqs      sum_len  min_len  avg_len  max_len
+KS_1.fastq  FASTQ   DNA   1,776,541  266,481,150      150      150      150
+KS_2.fastq  FASTQ   DNA   1,776,541  266,481,150      150      150      150
+(bioinfo) sharmaiimr@sharmaiimr-HP-Pavilion-x360-Convertible:~/Documents/00_rad_seq/02_protocol/RADtools/KS$ grep -c '^@' KS_1.fastq 
+1776541
+(bioinfo) sharmaiimr@sharmaiimr-HP-Pavilion-x360-Convertible:~/Documents/00_rad_seq/02_protocol/RADtools/KS$ grep -c '^@' KS_2.fastq 
+1776541
+
+(bioinfo) sharmaiimr@sharmaiimr-HP-Pavilion-x360-Convertible:~/Documents/00_rad_seq/02_protocol/RADtools/KS$ cat KS_1.fastq | grep '^@' | sed -e 's/:/ /g' | awk '{print $11}' | sort | uniq -c | sort -rn
+1774359 CGATGTAT
+    735 CGATGTTT
+    325 CGATGTGT
+    311 CGATGTTA
+    219 CGATGTAA
+    159 CGATGTCT
+    148 CGATGTAG
+    136 CGATGTAC
+     34 CGATGTNT
+     23 CGATGTTC
+     21 CGATGTCA
+     16 CGATGTGA
+     14 CGATGTTG
+     13 CGATGTNN
+     13 CGATGTAN
+      7 CGATGTCG
+      4 CGATGTGC
+      3 CGATGTGG
+      1 CGATGTCC
+(bioinfo) sharmaiimr@sharmaiimr-HP-Pavilion-x360-Convertible:~/Documents/00_rad_seq/02_protocol/RADtools/KS$ cat KS_1.fastq | grep '^@' | sed -e 's/:/ /g' | awk '{print $11}' | sort | uniq -c | sort -rn | wc -l
+19
+
+(bioinfo) sharmaiimr@sharmaiimr-HP-Pavilion-x360-Convertible:~/Documents/00_rad_seq/02_protocol/RADtools/KS$ cat KS_1.fastq | grep '^@' | sed -e 's/:/ /g' | awk '{print $4}' | sort | uniq -c | sort -rn 
+1776541 2
+(bioinfo) sharmaiimr@sharmaiimr-HP-Pavilion-x360-Convertible:~/Documents/00_rad_seq/02_protocol/RADtools/KS$ cat KS_1.fastq | grep '^@' | sed -e 's/:/ /g' | awk '{print $5}' | sort | uniq -c | sort -rn | wc -l
+96
+(bioinfo) sharmaiimr@sharmaiimr-HP-Pavilion-x360-Convertible:~/Documents/00_rad_seq/02_protocol/RADtools/KS$ cat KS_1.fastq | grep '^@' | sed -e 's/:/ /g' | awk '{print $5}' | sort | uniq -c | sort -rn | tee KS_1_lane2_tilenr.txt
+  19504 1116
+  19430 1114
+  19339 1115
+  19294 1117
+  19272 1122
+  19175 1224
+  19091 1110
+  19086 1210
+  19080 2119
+  19064 1112
+  19063 1120
+  19059 2124
+  19045 1103
+  19034 1121
+  19012 1111
+  19000 2122
+  18996 2224
+  18990 1214
+  18986 1123
+  18984 1113
+  18982 1216
+  18961 1124
+  18885 1119
+  18883 2123
+  18850 1223
+  18812 2111
+  18812 1118
+  18800 2115
+  18797 1218
+  18791 1213
+  18791 1108
+  18764 1211
+  18760 2117
+  18745 1215
+  18730 2118
+  18707 2112
+  18702 2113
+  18672 1207
+  18663 2223
+  18656 2116
+  18649 1217
+  18644 1219
+  18626 2110
+  18624 1222
+  18620 1220
+  18618 2219
+  18615 1202
+  18603 2214
+  18603 1208
+  18594 2215
+  18562 2217
+  18561 2210
+  18557 1212
+  18557 1109
+  18552 1107
+  18546 1203
+  18544 1106
+  18537 2107
+  18485 2114
+  18462 2106
+  18457 2102
+  18451 2211
+  18448 1221
+  18416 1102
+  18412 2216
+  18379 2221
+  18369 2212
+  18362 1205
+  18354 1206
+  18353 2222
+  18346 1104
+  18335 1209
+  18325 2105
+  18314 1204
+  18297 2207
+  18275 2218
+  18220 2103
+  18216 2205
+  18208 2220
+  18204 2213
+  18189 1105
+  18109 2108
+  18097 2208
+  18078 2206
+  18025 2203
+  17995 2104
+  17959 2202
+  17859 2209
+  17819 2204
+  17570 1101
+  17558 1201
+  17446 2201
+  17164 2101
+  16899 2121
+  16590 2109
+  14617 2120
