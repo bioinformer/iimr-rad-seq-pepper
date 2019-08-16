@@ -32,6 +32,8 @@ file                        format  type   num_seqs    sum_len  min_len  avg_len
 (bioinfo) sharmaiimr@sharmaiimr-HP-Pavilion-x360-Convertible:~/Documents/00_rad_seq/02_protocol/RADtools/brcd_01_1$ cat KS_pe1_brcd5.fa | grep -v '^>' | sort | uniq -c | sort -rn | wc -l
 17
 
+(bioinfo) sharmaiimr@sharmaiimr-HP-Pavilion-x360-Convertible:~/Documents/00_rad_seq/02_protocol/RADtools/brcd_02_2$ seqkit fq2fa barcodes.fastq -o KS_pe2_brcd5.fa
+
 (bioinfo) sharmaiimr@sharmaiimr-HP-Pavilion-x360-Convertible:~/Documents/00_rad_seq/02_protocol/RADtools/brcd_01_2$ cat KS_pe2_brcd5.fa | grep -v '^>' | sort | uniq -c | sort -rn | wc -l
 1309
 
