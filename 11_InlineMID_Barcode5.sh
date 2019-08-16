@@ -15,3 +15,4 @@ extract_barcodes.py -f ./SHAK/SHAK_2.fastq -c barcode_single_end --bc1_len 5 -o 
 
 extract_barcodes.py -f ./SRE/SRE_1.fastq -c barcode_single_end --bc1_len 5 -o brcd_05_1
 extract_barcodes.py -f ./SRE/SRE_2.fastq -c barcode_single_end --bc1_len 5 -o brcd_05_2
+
